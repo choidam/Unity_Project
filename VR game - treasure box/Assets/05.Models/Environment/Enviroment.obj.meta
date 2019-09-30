@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 106521d48e32b4d2eb47d71a6f95728e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder002
+    100004: Cylinder005
+    100006: Cylinder006
+    100008: Cylinder007
+    100010: Cylinder008
+    100012: Cylinder009
+    100014: //RootNode
+    100016: Line001
+    100018: Line002
+    100020: Line005
+    100022: Line054
+    100024: Line090
+    100026: Line091
+    100028: Line092
+    100030: Line093
+    100032: Line094
+    100034: Line095
+    100036: Line096
+    100038: Line097
+    100040: Line098
+    100042: Line112
+    100044: Line113
+    100046: Object001
+    100048: Object002
+    100050: Object003
+    100052: Object004
+    100054: Object005
+    100056: Object006
+    100058: Object007
+    100060: Object008
+    400000: Cylinder001
+    400002: Cylinder002
+    400004: Cylinder005
+    400006: Cylinder006
+    400008: Cylinder007
+    400010: Cylinder008
+    400012: Cylinder009
+    400014: //RootNode
+    400016: Line001
+    400018: Line002
+    400020: Line005
+    400022: Line054
+    400024: Line090
+    400026: Line091
+    400028: Line092
+    400030: Line093
+    400032: Line094
+    400034: Line095
+    400036: Line096
+    400038: Line097
+    400040: Line098
+    400042: Line112
+    400044: Line113
+    400046: Object001
+    400048: Object002
+    400050: Object003
+    400052: Object004
+    400054: Object005
+    400056: Object006
+    400058: Object007
+    400060: Object008
+    2100000: Cylinder001Mat
+    2100002: Cylinder002Mat
+    2100004: Cylinder005Mat
+    2100006: Cylinder006Mat
+    2100008: Cylinder007Mat
+    2100010: Cylinder008Mat
+    2100012: Cylinder009Mat
+    2100014: Line001Mat
+    2100016: Line002Mat
+    2100018: Line005Mat
+    2100020: Line054Mat
+    2100022: Line090Mat
+    2100024: Line091Mat
+    2100026: Line092Mat
+    2100028: Line093Mat
+    2100030: Line094Mat
+    2100032: Line095Mat
+    2100034: Line096Mat
+    2100036: Line097Mat
+    2100038: Line098Mat
+    2100040: Line112Mat
+    2100042: Line113Mat
+    2100044: Object001Mat
+    2100046: Object002Mat
+    2100048: Object003Mat
+    2100050: Object004Mat
+    2100052: Object005Mat
+    2100054: Object006Mat
+    2100056: Object007Mat
+    2100058: Object008Mat
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Cylinder005
+    2300006: Cylinder006
+    2300008: Cylinder007
+    2300010: Cylinder008
+    2300012: Cylinder009
+    2300014: Line001
+    2300016: Line002
+    2300018: Line005
+    2300020: Line054
+    2300022: Line090
+    2300024: Line091
+    2300026: Line092
+    2300028: Line093
+    2300030: Line094
+    2300032: Line095
+    2300034: Line096
+    2300036: Line097
+    2300038: Line098
+    2300040: Line112
+    2300042: Line113
+    2300044: Object001
+    2300046: Object002
+    2300048: Object003
+    2300050: Object004
+    2300052: Object005
+    2300054: Object006
+    2300056: Object007
+    2300058: Object008
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Cylinder005
+    3300006: Cylinder006
+    3300008: Cylinder007
+    3300010: Cylinder008
+    3300012: Cylinder009
+    3300014: Line001
+    3300016: Line002
+    3300018: Line005
+    3300020: Line054
+    3300022: Line090
+    3300024: Line091
+    3300026: Line092
+    3300028: Line093
+    3300030: Line094
+    3300032: Line095
+    3300034: Line096
+    3300036: Line097
+    3300038: Line098
+    3300040: Line112
+    3300042: Line113
+    3300044: Object001
+    3300046: Object002
+    3300048: Object003
+    3300050: Object004
+    3300052: Object005
+    3300054: Object006
+    3300056: Object007
+    3300058: Object008
+    4300000: Cylinder001
+    4300002: Cylinder002
+    4300004: Cylinder005
+    4300006: Cylinder006
+    4300008: Cylinder007
+    4300010: Cylinder008
+    4300012: Cylinder009
+    4300014: Line001
+    4300016: Line002
+    4300018: Line005
+    4300020: Line054
+    4300022: Line090
+    4300024: Line091
+    4300026: Line092
+    4300028: Line093
+    4300030: Line094
+    4300032: Line095
+    4300034: Line096
+    4300036: Line097
+    4300038: Line098
+    4300040: Line112
+    4300042: Line113
+    4300044: Object001
+    4300046: Object002
+    4300048: Object003
+    4300050: Object004
+    4300052: Object005
+    4300054: Object006
+    4300056: Object007
+    4300058: Object008
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder001Mat
+    second: {fileID: 2100000, guid: 7aca57a08cf944969b7c0f42a9f490bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder002Mat
+    second: {fileID: 2100000, guid: 804363241ad514d6dad37b6e3b6a150a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder005Mat
+    second: {fileID: 2100000, guid: b043be4bfa57f49e9872e1ba1eadb84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder006Mat
+    second: {fileID: 2100000, guid: 9d6fa0d695b2c4ad9b328743ece926b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder007Mat
+    second: {fileID: 2100000, guid: e30da50dbd8c343588af909a783cf83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder008Mat
+    second: {fileID: 2100000, guid: 4a4da2ebd25664c1886f85a05c7bf8f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder009Mat
+    second: {fileID: 2100000, guid: 9ee0bee33203b46048d96f580fe962ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line001Mat
+    second: {fileID: 2100000, guid: b5b0192baa651459eb12779902efbebf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line002Mat
+    second: {fileID: 2100000, guid: fe3d32b5aa509413283c9205141e39ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line005Mat
+    second: {fileID: 2100000, guid: 7660e15409f70477388146c012f008af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line054Mat
+    second: {fileID: 2100000, guid: 5ce02152f59dd44b6a0aa3f741a465a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line090Mat
+    second: {fileID: 2100000, guid: aebb2fe3c185743d483088ff0e95ec83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line091Mat
+    second: {fileID: 2100000, guid: 94304072571984257a8cd2ccc6775bac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line092Mat
+    second: {fileID: 2100000, guid: 445aab57a21a44b779301e392c4e5035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line093Mat
+    second: {fileID: 2100000, guid: 813a2e94be9274995897341a97864463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line094Mat
+    second: {fileID: 2100000, guid: 0820d491132f14f619a5ccc68e0dba36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line095Mat
+    second: {fileID: 2100000, guid: 4ef9c25c1b7d64e9f89a04d87b2e4695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line096Mat
+    second: {fileID: 2100000, guid: 82ca7071f6f4040bcb3cfd6cd31d8c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line097Mat
+    second: {fileID: 2100000, guid: dc53ab055452042a8b0d6cf17ed10b1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line098Mat
+    second: {fileID: 2100000, guid: b57a91d8d11a14c4aad1b71e5ea3148a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line112Mat
+    second: {fileID: 2100000, guid: aa5e677f78e674909976c8e5c8fb89b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line113Mat
+    second: {fileID: 2100000, guid: 115bd0270366c48d58756613ee22b632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object001Mat
+    second: {fileID: 2100000, guid: 572b5289ab3aa48c483b1b34b7a1d45e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object002Mat
+    second: {fileID: 2100000, guid: 81f6ad0b33f124117bd87272434fc4d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object003Mat
+    second: {fileID: 2100000, guid: 046c7d228fd8d4aa4ad7b9d67f344732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object004Mat
+    second: {fileID: 2100000, guid: f34e9eac1b0a94f0f8fcde743198427e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object005Mat
+    second: {fileID: 2100000, guid: 5d08d7c628aa64098ba5a742655a9af2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object006Mat
+    second: {fileID: 2100000, guid: 4200bb5fb5510417c9619e3ee039f4da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object007Mat
+    second: {fileID: 2100000, guid: ae827e0710b494e2f83083423a7a04ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object008Mat
+    second: {fileID: 2100000, guid: 117f40ba9bc2f4195a6f78a6c1363a76, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
